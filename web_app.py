@@ -101,7 +101,3 @@ if st.button("Посчитать"):
             )
     else:
         st.write("Файлы не загружены")
-# st.download_button('Скачать отчет CSV', res_inst.to_csv("Installs sum.csv",index=False,), 'csv')
-# st.download_button('Скачать отчет CSV', res_ev.to_csv("Events sum.csv",index=False), 'csv')
-# evets=[if 'events' in uploaded_files]
-# st.dataframe(installs)
