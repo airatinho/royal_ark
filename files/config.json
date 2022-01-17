@@ -1,0 +1,8 @@
+{
+  "db": "postgresql",
+  "login_db": "postgres",
+  "password_db": "1",
+  "domain": "localhost",
+  "port": "5432",
+  "db_name": "postgres"
+}
